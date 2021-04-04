@@ -25,7 +25,7 @@ header {
 
 header h1 {
   flex-grow: 1;
-  margin: 0;
+  margin: 0 .5rem;
   padding: 0;
 }
 
@@ -33,7 +33,6 @@ header img {
   flex-basis: auto;
   order: -1;
   width: 2rem;
-  margin: .5rem;
 }
 
 header p {
